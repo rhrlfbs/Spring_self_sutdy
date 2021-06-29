@@ -14,7 +14,7 @@
 POJO(Plain Old Java Object)
 :말그대로 평범한 옛날 자바 객체를 의미.
 :상반된 의미로 servlet 클래스가 존재
--javax.servlet, javx.servlet.http 패키지를 import해야 한다.
+- javax.servlet, javx.servlet.http 패키지를 import해야 한다.
 - public 클래스로 선언되어야 한다.
 - servlet, GenericServlet, HttpServlet 중 하나를 상속해야 한다.
 - 기본 생성자가 있어야 한다.
